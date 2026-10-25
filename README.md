@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @engpierre
-- 👀 I’m interested in CS50
-- 🌱 I’m currently learning CS
+- 👀 I hold multiple certifications from  Stanford, Google, Anthropic and more...
+- 🌱 I’m currently employed and not looking for a Job
 - 💞️ I’m looking to collaborate on AI gen project
 - 📫 How to reach me ...
 - 😄 Pronouns: Pierre=he
-- ⚡ Fun fact: Senior end DND
+- ⚡ Fun fact: Senior eng DND
 
 <!---
 engpierre/engpierre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
